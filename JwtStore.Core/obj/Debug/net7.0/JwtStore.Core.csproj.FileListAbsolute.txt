@@ -1,0 +1,12 @@
+C:\CsharpProjects\JwtAuth\JwtStore.Core\bin\Debug\net7.0\JwtStore.Core.deps.json
+C:\CsharpProjects\JwtAuth\JwtStore.Core\bin\Debug\net7.0\JwtStore.Core.dll
+C:\CsharpProjects\JwtAuth\JwtStore.Core\bin\Debug\net7.0\JwtStore.Core.pdb
+C:\CsharpProjects\JwtAuth\JwtStore.Core\obj\Debug\net7.0\JwtStore.Core.csproj.AssemblyReference.cache
+C:\CsharpProjects\JwtAuth\JwtStore.Core\obj\Debug\net7.0\JwtStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpProjects\JwtAuth\JwtStore.Core\obj\Debug\net7.0\JwtStore.Core.AssemblyInfoInputs.cache
+C:\CsharpProjects\JwtAuth\JwtStore.Core\obj\Debug\net7.0\JwtStore.Core.AssemblyInfo.cs
+C:\CsharpProjects\JwtAuth\JwtStore.Core\obj\Debug\net7.0\JwtStore.Core.csproj.CoreCompileInputs.cache
+C:\CsharpProjects\JwtAuth\JwtStore.Core\obj\Debug\net7.0\JwtStore.Core.dll
+C:\CsharpProjects\JwtAuth\JwtStore.Core\obj\Debug\net7.0\refint\JwtStore.Core.dll
+C:\CsharpProjects\JwtAuth\JwtStore.Core\obj\Debug\net7.0\JwtStore.Core.pdb
+C:\CsharpProjects\JwtAuth\JwtStore.Core\obj\Debug\net7.0\ref\JwtStore.Core.dll

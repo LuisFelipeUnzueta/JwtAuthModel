@@ -1,0 +1,15 @@
+C:\CsharpProjects\JwtAuth\JwtStore.Infra\bin\Debug\net7.0\JwtStore.Infra.deps.json
+C:\CsharpProjects\JwtAuth\JwtStore.Infra\bin\Debug\net7.0\JwtStore.Infra.dll
+C:\CsharpProjects\JwtAuth\JwtStore.Infra\bin\Debug\net7.0\JwtStore.Infra.pdb
+C:\CsharpProjects\JwtAuth\JwtStore.Infra\bin\Debug\net7.0\JwtStore.Core.dll
+C:\CsharpProjects\JwtAuth\JwtStore.Infra\bin\Debug\net7.0\JwtStore.Core.pdb
+C:\CsharpProjects\JwtAuth\JwtStore.Infra\obj\Debug\net7.0\JwtStore.Infra.csproj.AssemblyReference.cache
+C:\CsharpProjects\JwtAuth\JwtStore.Infra\obj\Debug\net7.0\JwtStore.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\CsharpProjects\JwtAuth\JwtStore.Infra\obj\Debug\net7.0\JwtStore.Infra.AssemblyInfoInputs.cache
+C:\CsharpProjects\JwtAuth\JwtStore.Infra\obj\Debug\net7.0\JwtStore.Infra.AssemblyInfo.cs
+C:\CsharpProjects\JwtAuth\JwtStore.Infra\obj\Debug\net7.0\JwtStore.Infra.csproj.CoreCompileInputs.cache
+C:\CsharpProjects\JwtAuth\JwtStore.Infra\obj\Debug\net7.0\JwtStore.CB581EA6.Up2Date
+C:\CsharpProjects\JwtAuth\JwtStore.Infra\obj\Debug\net7.0\JwtStore.Infra.dll
+C:\CsharpProjects\JwtAuth\JwtStore.Infra\obj\Debug\net7.0\refint\JwtStore.Infra.dll
+C:\CsharpProjects\JwtAuth\JwtStore.Infra\obj\Debug\net7.0\JwtStore.Infra.pdb
+C:\CsharpProjects\JwtAuth\JwtStore.Infra\obj\Debug\net7.0\ref\JwtStore.Infra.dll
